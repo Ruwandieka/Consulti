@@ -1,0 +1,22 @@
+<svg width="263" height="305" viewBox="0 0 263 305" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="22.4526" width="226.202" height="282.127" rx="6" fill="#F6F5EC"/>
+<mask id="mask0_106_346" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="22" width="227" height="283">
+<rect y="22.4526" width="226.202" height="282.127" rx="8" fill="#FBF4BB"/>
+</mask>
+<g mask="url(#mask0_106_346)">
+<path d="M-147.049 162.559C-165.865 185.181 -178.276 242.399 -77.3984 290.288C48.6992 350.15 120.332 332.334 86.9536 434.499" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M-96.2646 115.073C-115.08 137.696 -127.492 194.914 -26.6142 242.803C99.4834 302.665 171.116 284.849 137.738 387.014" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M-45.4834 67.5884C-64.2991 90.2111 -76.711 147.429 24.1671 195.318C150.265 255.18 221.898 237.364 188.519 339.529" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M5.2998 20.1031C-13.5159 42.7259 -25.9278 99.9437 74.9503 147.833C201.048 207.694 272.681 189.879 239.302 292.043" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M56.082 -27.382C37.2663 -4.75921 24.8545 52.4586 125.732 100.348C251.83 160.209 323.463 142.394 290.084 244.558" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M106.863 -74.8672C88.0476 -52.2444 75.6357 4.97335 176.514 52.8625C302.611 112.724 374.244 94.9085 340.866 197.073" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M157.646 -122.352C138.831 -99.7295 126.419 -42.5118 227.297 5.3774C353.394 65.2388 425.028 47.4234 391.649 149.588" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+</g>
+<rect x="24.8926" y="-0.00976562" width="238.107" height="282.127" rx="6" fill="#E8E8E8"/>
+<mask id="mask1_106_346" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="24" y="-1" width="239" height="284">
+<rect x="24.8926" y="-0.00976562" width="238.107" height="282.127" rx="8" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_106_346)">
+<rect x="-77" y="-5.50989" width="432" height="287.613" fill="#BDBDBD"/>
+</g>
+</svg>

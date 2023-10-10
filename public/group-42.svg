@@ -1,0 +1,22 @@
+<svg width="263" height="306" viewBox="0 0 263 306" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="23.4365" width="226.202" height="282.127" rx="6" fill="#F6F5EC"/>
+<mask id="mask0_106_436" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="23" width="227" height="283">
+<rect y="23.4365" width="226.202" height="282.127" rx="8" fill="#FBF4BB"/>
+</mask>
+<g mask="url(#mask0_106_436)">
+<path d="M-147.049 163.542C-165.865 186.165 -178.276 243.383 -77.3984 291.272C48.6992 351.134 120.332 333.318 86.9536 435.483" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M-96.2646 116.057C-115.08 138.68 -127.492 195.898 -26.6142 243.787C99.4834 303.649 171.116 285.833 137.738 387.998" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M-45.4834 68.5723C-64.2991 91.195 -76.711 148.413 24.1671 196.302C150.265 256.163 221.898 238.348 188.519 340.513" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M5.2998 21.087C-13.5159 43.7098 -25.9278 100.928 74.9503 148.817C201.048 208.678 272.681 190.863 239.302 293.027" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M56.082 -26.3981C37.2663 -3.77532 24.8545 53.4425 125.732 101.332C251.83 161.193 323.463 143.378 290.084 245.542" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M106.863 -73.8833C88.0476 -51.2606 75.6357 5.95724 176.514 53.8464C302.611 113.708 374.244 95.8924 340.866 198.057" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+<path d="M157.646 -121.368C138.831 -98.7457 126.419 -41.5279 227.297 6.36128C353.394 66.2227 425.028 48.4073 391.649 150.572" stroke="#D7D7D7" stroke-opacity="0.77" stroke-width="10"/>
+</g>
+<rect x="24.8926" y="0.974243" width="238.107" height="282.127" rx="6" fill="#E8E8E8"/>
+<mask id="mask1_106_436" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="24" y="0" width="239" height="284">
+<rect x="24.8926" y="0.974243" width="238.107" height="282.127" rx="8" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_106_436)">
+<rect x="-127" y="-27.4801" width="510" height="339.543" fill="#BDBDBD"/>
+</g>
+</svg>
