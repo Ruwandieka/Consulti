@@ -87,13 +87,29 @@
   width: 638px;
   height: 433.72px;
 }
-.place-your-image {
+.placeYourImage1 {
   position: absolute;
   top: -265px;
   left: -565.24px;
   background-color: var(--gray-4);
   width: 1433px;
   height: 957px;
+  }
+  .image {
+  position: relative;
+  width: 100%;
+  height: 576px;
+  background-color: var(--gray-4);
+  border-radius: 30px;  }
+  
+
+.place-your-image1 {
+  position: absolute;
+  top: 1.02px;
+  left: 749px;
+  background-color: var(--gray-4);
+  width: 495px;
+  height: 600px;
 }
 .image,
 .shape-icon {
@@ -500,14 +516,7 @@
   color: var(--color-black);
   width: 693px;
 }
-.place-your-image1 {
-  position: absolute;
-  top: 1.02px;
-  left: 749px;
-  background-color: var(--gray-4);
-  width: 495px;
-  height: 600px;
-}
+
 .research-on-the {
   top: 80px;
   left: 23px;
