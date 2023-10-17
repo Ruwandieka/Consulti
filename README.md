@@ -3,4 +3,4 @@
 [Documentation.pdf][def]
 
 [def]: Documentation.pdf
-[def2]: Image.png
+[def2]: image.png
